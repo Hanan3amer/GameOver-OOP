@@ -1,0 +1,10 @@
+@media screen and (max-width: 405px) {
+    .container nav{
+       left: 0;
+       width: 100%;
+       top: 12%;
+    }
+    header img {
+        height: 15vh;
+    }
+}
